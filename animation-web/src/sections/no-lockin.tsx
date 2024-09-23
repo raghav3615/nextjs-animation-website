@@ -10,19 +10,12 @@ export const  NoLockin = () => (
       </span>
     </h2>
 
-    <p className="mx-auto mt-20 max-w-[72rem] text-center text-xl text-black [&_a]:underline">
-      Remeber this is a rebuilt version of the original project made by CodeSandbox. You can check the original project{" "} 
-      <a
-            href="https://www.codesandbox.com"
-            target="_blank"
-            rel="noopener nofollow noreferrer"
-          >
-            CodeSandbox
-      </a>
+    <p className="mx-auto mt-20 max-w-[50-rem] text-center text-xl text-black [&_a]:underline">
+        <h4>
+            Built with 💛&nbsp;by&nbsp;
+            <a href="https://github.com/raghav3615">Raghav Dadhich</a>
+        </h4>
       <br />
-      <br />
-
-      Belive in your dreams and make them come true🚀
     </p>
   </section>
 );

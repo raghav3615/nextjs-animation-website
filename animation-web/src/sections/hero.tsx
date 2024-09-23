@@ -61,7 +61,7 @@ export const Hero = () => {
             target="_blank"
             rel="noopener nofollow noreferrer"
           >
-            danielwuachin
+            Raghav
           </a>
         </p>
 
@@ -71,7 +71,7 @@ export const Hero = () => {
           reimagined.
         </h1>
 
-        <a href="https://github.com/danielwuachin/nextjs-animations" className="flex items-center text-lg text-primary">
+        <a href="https://github.com/raghav3615/nextjs-animation-website" className="flex items-center text-lg text-primary">
           <GithubIcon className="mr-2 inline h-5 w-5" />
           Import GitHub project
         </a>
