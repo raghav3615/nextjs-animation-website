@@ -35,7 +35,7 @@ export default function Home() {
               we can make this responsive as well 😁
             <br />
             <a
-              href="https://github.com/danielwuachin/nextjs-animations"
+              href="https://github.com/raghav3615/nextjs-animation-website"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 block underline"
