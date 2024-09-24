@@ -45,4 +45,4 @@ Enjoy the animations experience! 💙
 
 ### Design remains copyrighted by CodeSandbox, it can only be used for educational purposes.
 
-See the [LICENSE](/LICENSE.md) for more information about reusing this code.
+
